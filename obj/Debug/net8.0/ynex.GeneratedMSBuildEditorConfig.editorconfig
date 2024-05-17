@@ -1,0 +1,807 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ynex
+build_property.RootNamespace = ynex
+build_property.ProjectDir = /Users/praveenmanchi/Desktop/Stepzero_core/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/praveenmanchi/Desktop/Stepzero_core
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/accordions_collapse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9hY2NvcmRpb25zX2NvbGxhcHNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/draggable_cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9kcmFnZ2FibGVfY2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/modals_closes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9tb2RhbHNfY2xvc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/navbars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9uYXZiYXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/offcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9vZmZjYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/ratings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9yYXRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/scrollspy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9zY3JvbGxzcHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Advancedui/swiperjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWR2YW5jZWR1aS9zd2lwZXJqcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crm_companies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcm1fY29tcGFuaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crm_contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcm1fY29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crm_deals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcm1fZGVhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crm_leads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcm1fbGVhZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crypto_buysell.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcnlwdG9fYnV5c2VsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crypto_currency_exchange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcnlwdG9fY3VycmVuY3lfZXhjaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crypto_marketcap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcnlwdG9fbWFya2V0Y2FwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crypto_transactions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcnlwdG9fdHJhbnNhY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/crypto_wallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9jcnlwdG9fd2FsbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/full_calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9mdWxsX2NhbGVuZGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9nYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/job_candidate_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9qb2JfY2FuZGlkYXRlX2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/job_candidate_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9qb2JfY2FuZGlkYXRlX3NlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/job_company_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9qb2JfY29tcGFueV9zZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/job_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9qb2JfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/job_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9qb2JfbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/job_post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9qb2JfcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/job_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9qb2Jfc2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/nft_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9uZnRfY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/nft_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9uZnRfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/nft_live_auction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9uZnRfbGl2ZV9hdWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/nft_marketplace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9uZnRfbWFya2V0cGxhY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/nft_wallet_integration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9uZnRfd2FsbGV0X2ludGVncmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/projects_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9wcm9qZWN0c19jcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/projects_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9wcm9qZWN0c19saXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Apps/projects_overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwcy9wcm9qZWN0c19vdmVydmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/comingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vY29taW5nc29vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/createpassword_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vY3JlYXRlcGFzc3dvcmRfYmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/createpassword_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vY3JlYXRlcGFzc3dvcmRfY292ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/lockscreen_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vbG9ja3NjcmVlbl9iYXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/lockscreen_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vbG9ja3NjcmVlbl9jb3Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/resetpassword_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vcmVzZXRwYXNzd29yZF9iYXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/resetpassword_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vcmVzZXRwYXNzd29yZF9jb3Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/signin_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vc2lnbmluX2Jhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/signin_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vc2lnbmluX2NvdmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/signup_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vc2lnbnVwX2Jhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/signup_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vc2lnbnVwX2NvdmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/twostep_verification_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vdHdvc3RlcF92ZXJpZmljYXRpb25fYmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/twostep_verification_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vdHdvc3RlcF92ZXJpZmljYXRpb25fY292ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Authentication/under_maintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24vdW5kZXJfbWFpbnRlbmFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_area_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfYXJlYV9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_bar_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfYmFyX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_boxplot_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfYm94cGxvdF9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_bubble_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfYnViYmxlX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_candlestick_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfY2FuZGxlc3RpY2tfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_column_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfY29sdW1uX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_heatmap_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfaGVhdG1hcF9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_line_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfbGluZV9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_mixed_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfbWl4ZWRfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_pie_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfcGllX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_polararea_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfcG9sYXJhcmVhX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_radar_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfcmFkYXJfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_radialbar_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfcmFkaWFsYmFyX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_rangearea_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfcmFuZ2VhcmVhX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_scatter_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfc2NhdHRlcl9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_timeline_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfdGltZWxpbmVfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/apex_treemap_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2FwZXhfdHJlZW1hcF9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/chartjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2NoYXJ0anMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Charts/echarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhcnRzL2VjaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Error/error401.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IvZXJyb3I0MDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Error/error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IvZXJyb3I0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Error/error500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IvZXJyb3I1MDAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_check_radios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9jaGVja19yYWRpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_color_pickers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9jb2xvcl9waWNrZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_datetime_pickers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9kYXRldGltZV9waWNrZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_file_uploads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9maWxlX3VwbG9hZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_inputs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9pbnB1dHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_input_groups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9pbnB1dF9ncm91cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_layouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9sYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_range.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9yYW5nZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9zZWxlY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_select2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV9zZWxlY3QyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/form_validations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvZm9ybV92YWxpZGF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Forms/quill_editor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRm9ybXMvcXVpbGxfZWRpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/index9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9pbmRleDkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Icons/icons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSWNvbnMvaWNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Maps/google_maps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFwcy9nb29nbGVfbWFwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Maps/leaflet_maps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFwcy9sZWFmbGV0X21hcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Maps/vector_maps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFwcy92ZWN0b3JfbWFwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvYWJvdXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/add_products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvYWRkX3Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvYmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/blog_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvYmxvZ19jcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/blog_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvYmxvZ19kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvY2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvY2hhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvY2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvY29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvY29udGFjdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/edit_products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvZWRpdF9wcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/empty_page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvZW1wdHlfcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/faqs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvZmFxcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/filemanager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvZmlsZW1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/invoice_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvaW52b2ljZV9jcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/invoice_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvaW52b2ljZV9kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/invoice_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvaW52b2ljZV9saXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/landing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvbGFuZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/landing_jobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvbGFuZGluZ19qb2JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/mail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/mail_settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvbWFpbF9zZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvbm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvb3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/order_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvb3JkZXJfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvcHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvcHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/products_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvcHJvZHVjdHNfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/products_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvcHJvZHVjdHNfbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvcHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/reviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvcmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvdGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/terms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvdGVybXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvdGltZWxpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/todo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvdG9kby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Pages/wishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFnZXMvd2lzaGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fZm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9faGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_header1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9faGVhZGVyMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_jobs-footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fam9icy1mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_jobs-header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fam9icy1oZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_jobs-header1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fam9icy1oZWFkZXIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_jobs-sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fam9icy1zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_jobs-sidebar1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fam9icy1zaWRlYmFyMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fc2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_sidebar1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fc2lkZWJhcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fc3R5bGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/landing/_switcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvbGFuZGluZy9fc3dpdGNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX2Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX2hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_header1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX2hlYWRlcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX3NjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_search-modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX3NlYXJjaC1tb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX3N0eWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/Layouts/_switcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0xheW91dHMvX3N3aXRjaGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/_LayoutAuth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXRBdXRoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/_LayoutError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXRFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/_LayoutLan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXRMYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/_LayoutLanjobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXRMYW5qb2JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Tables/data_tables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFibGVzL2RhdGFfdGFibGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Tables/grid_tables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFibGVzL2dyaWRfdGFibGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Tables/tables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFibGVzL3RhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Task/task_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFzay90YXNrX2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Task/task_kanban_board.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFzay90YXNrX2thbmJhbl9ib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Task/task_listview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFzay90YXNrX2xpc3R2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9hbGVydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9iYWRnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/breadcrumbs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9icmVhZGNydW1icy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/buttongroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9idXR0b25ncm91cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9idXR0b25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9jYXJkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/dropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9kcm9wZG93bnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/images_figures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9pbWFnZXNfZmlndXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/indicators.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9pbmRpY2F0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/listgroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9saXN0Z3JvdXBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/navs_tabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9uYXZzX3RhYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/object_fit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9vYmplY3RfZml0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/paginations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9wYWdpbmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/popovers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9wb3BvdmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/progress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9wcm9ncmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/spinners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy9zcGlubmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/toasts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy90b2FzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Uielements/tooltips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVWllbGVtZW50cy90b29sdGlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Utilities/avatars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXRpbGl0aWVzL2F2YXRhcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Utilities/borders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXRpbGl0aWVzL2JvcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Utilities/colors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXRpbGl0aWVzL2NvbG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Utilities/columns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXRpbGl0aWVzL2NvbHVtbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Utilities/flex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXRpbGl0aWVzL2ZsZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Utilities/grids.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXRpbGl0aWVzL2dyaWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Widgets/widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2lkZ2V0cy93aWRnZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/praveenmanchi/Desktop/Stepzero_core/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lvixm1znlz
